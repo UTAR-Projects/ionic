@@ -18,7 +18,7 @@
       return false;
     }
   };
-
+//testing
   var SlideDrag = function(opts) {
     this.dragThresholdX = opts.dragThresholdX || 10;
     this.el = opts.el;
